@@ -1,0 +1,17 @@
+beautifulsoup4==4.9.1
+certifi==2020.6.20
+chardet==3.0.4
+email-scraper==0.3
+get==0.0.0
+idna==2.10
+post==0.0.0
+PyQt5==5.15.0
+PyQt5-sip==12.8.0
+PyQtWebEngine==5.15.0
+query-string==0.0.0
+request==0.0.0
+requests==2.24.0
+soupsieve==2.0.1
+tlds==2020071000
+urllib3==1.25.9
+
